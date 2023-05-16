@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hesham</h1>
-<h3 align="center">An Undergraduate Electronics and Communication Engineer</h3>
+<h3 align="center"> Undergraduate Electronics and Communication Engineer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
